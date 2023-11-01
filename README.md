@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Web Scraping with Puppeteer</title>
+
 </head>
 <body>
     <h1>Web Scraping with Puppeteer</h1>
