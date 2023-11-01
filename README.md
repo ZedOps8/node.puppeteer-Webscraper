@@ -6,7 +6,7 @@
 <body>
     <h1>Web Scraping with Puppeteer</h1>
 
-<p>This code provides a basic example of web scraping using Puppeteer, a headless browser automation tool. Puppeteer allows you to programmatically interact with websites and extract data from web pages.</p>
+<p>This code provides a basic example of web scraping using Puppeteer, a headless browser automation tool. Puppeteer allows to programmatically interact with websites and extract data from web pages.</p>
 
 <h2>Prerequisites</h2>
     <ul>
@@ -18,7 +18,7 @@
     <ol>
         <li>Clone this repository to your local machine:</li>
     </ol>
-    <pre><code>git clone https://github.com/your-username/web-scraping-puppeteer.git</code></pre>
+    <pre><code>git clone https://github.com/ZedOps8/node.puppeteer-Webscraper.git</code></pre>
 
 <ol start="2">
         <li>Install the required dependencies:</li>
